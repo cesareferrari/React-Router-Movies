@@ -19,8 +19,6 @@ function MovieDetails(props) {
           {star}
         </div>
       ))}
-
-
     </div>
   );
 }
